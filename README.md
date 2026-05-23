@@ -38,12 +38,6 @@ This project focuses on developing a complete **interactive reporting workflow**
 
 ## 📂 04. Output Files
 
-### 📄 Task Instruction File
-[View Task Instruction File](assets/Finals-Task-4-Instruction.docx)
-
-### 📊 Cleaned Dataset
-[Download Cleaned Dataset](assets/Finals-Task-4-Cleaned-Dataset.xlsx)
-
 ### 🖼️ Dashboard Preview
 
 ![My Performance Dashboard](https://github.com/esguerraervin/Final-task-4/blob/4ab0f42418e3ca371d03153ae120d61d761d0edf/My%20performance%20dashboard.PNG)
